@@ -11,7 +11,7 @@ package Penilaian;
  */
 public class Main {
     public static void main(String[] args) {
-        NilaiAkhir yudha = new NilaiAkhir("yudha","2110010576",90,80,78);
+        NilaiAkhir yudha = new NilaiAkhir("yudha","2110010576",90,80,88);
         
         
         System.out.println("Nama :"+yudha.getNama());
